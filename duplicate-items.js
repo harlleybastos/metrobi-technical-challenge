@@ -1,3 +1,5 @@
+// Question 1: Write a JavaScript function that finds the duplicate items in any given array
+
 /**
  * Finds duplicate items in an array
  * @param {Array} arr - The input array
